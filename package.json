@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/fuse-friends/fuse-shared-library#readme",
   "dependencies": {
-    "fuse-shared-library-darwin": "https://github.com/gityaka/fuse-shared-library-darwin.git",
+    "fuse-shared-library-darwin": "github:gityaka/fuse-shared-library-darwin",
     "fuse-shared-library-linux": "^1.0.1",
     "fuse-shared-library-linux-arm": "^1.0.0"
   },
